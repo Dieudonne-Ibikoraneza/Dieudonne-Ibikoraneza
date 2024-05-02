@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dieudonneibikoraneza13@gmail.com**
 
-- ⚡ Fun fact **I'm like the builder of websites, crafting both the visible parts and the hidden machinery that makes it all work!**
+- ⚡ Fun fact **Frontend developer by night, football player by day — mastering code and the field with equal finesse.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
